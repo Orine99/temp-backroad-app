@@ -17,14 +17,14 @@ const About = () => {
                     <article className="about-info">
                     <h3>explore the difference</h3>
                     <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-                        quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-                        unde dolor?
+                        From quiet shorelines to cliffside sunsets, Backroads
+                        designs trips that balance iconic highlights with hidden
+                        local spots worth slowing down for.
                     </p>
                     <p>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-                        quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-                        unde dolor?
+                        Every itinerary is built for small groups, flexible
+                        pacing, and expert guidance, so you can focus on the
+                        experience instead of the logistics.
                     </p>
                     <a href="#" className="btn">read more</a>
                     </article>
