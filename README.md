@@ -64,7 +64,7 @@ npm install
 npm start
 ```
 
-Runs the app in development mode at `http://localhost:3000`.
+Runs the app in development mode at `https://temp-backroad-app-v1.vercel.app/`.
 
 ### 3. Build for production
 
