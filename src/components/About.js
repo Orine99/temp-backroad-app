@@ -26,7 +26,7 @@ const About = () => {
                         pacing, and expert guidance, so you can focus on the
                         experience instead of the logistics.
                     </p>
-                    <a href="#" className="btn">read more</a>
+                    <a href="#tours" className="btn">read more</a>
                     </article>
                 </div>
         </section>
